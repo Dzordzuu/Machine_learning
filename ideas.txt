@@ -1,0 +1,4 @@
+BIOC Projekt
+1. Labirynt
+2. Omijanie przeszkód 
+3. Rozpoznawanie ....
